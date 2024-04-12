@@ -20,6 +20,8 @@
 
 ### 安装
 - 将板子和屏幕正确连接
+- 这四个引脚和oled的四个引脚对应连接就可以
+- ![2b3f3db9000a244fd0a0e4197f1a1f3](https://github.com/3081241653/Weather_clocks/assets/151439821/4118b695-5107-4c44-965d-17b422291abc)
 - 在VScode的PlatformIO插件创好项目（网上有好多教程，这里就不多说了）关于板子型号的选择如下图，初次安装可能很慢，睡一觉就好了
 - ![image](https://github.com/3081241653/Weather_clocks/assets/151439821/671498fb-96e7-4188-a55e-dfc4c47b3a35)
 
@@ -169,6 +171,8 @@ void loop() {
 https://www.bilibili.com/video/BV15F411C7FC/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=882b605c11c8488ef603578d67a454ce
 ```
 - ![image](https://github.com/3081241653/Weather_clocks/assets/151439821/864639a8-525e-4459-bc40-2765e6d92f93)
+- xian是我自己打的，改成想改的城市，就下图位置
+- ![image](https://github.com/3081241653/Weather_clocks/assets/151439821/b9b227bc-0082-422f-9e60-0d44549e5ca7)
 ### 接下来直接烧录即可就不多说了
 - 就这样子了，然后你可以自己发挥了，我只能到这里了。
 - ![5e52d49dfcbe5f0ab5dcb2d75c701c8](https://github.com/3081241653/Weather_clocks/assets/151439821/b6d69559-cd8a-41e9-b27f-9a69bb1e998e)
