@@ -9,19 +9,25 @@
 
 - 合宇ESP32-S3 开发板
 - 0.96寸OLED 显示屏，驱动芯片SSD1306
+- ![image](https://github.com/3081241653/Weather_clocks/assets/151439821/3f85ff46-160e-4717-a976-fc617a3586b2)
+- 将板子和屏幕正确连接
+- 
+
+
+
+
+
 
 ### 软件需求
 
 - Visual Studio Code
 - PlatformIO 插件
+  
 
 ### 安装
 
-克隆本仓库到本地计算机：
 
-```bash
-https://github.com/3081241653/Weather_clocks
-``` 
+
 ### 代码
 
 
@@ -33,3 +39,5 @@ std::cout << "Hello, world!" << std::endl;
 return 0;
 }
 ```
+![image](https://github.com/3081241653/Weather_clocks/assets/151439821/6fc371ed-6cee-4f73-9f5d-9276d217cf67)
+
