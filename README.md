@@ -19,4 +19,4 @@
 1. 克隆本仓库到本地计算机：
 
 ```bash
-git clone https://github.com/3081241653/Weather_clocks
+https://github.com/3081241653/Weather_clocks
