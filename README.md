@@ -1,7 +1,7 @@
 # Weather_clocks简单天气站项目
 本项目使用 VScode、PlatformIO 和 ESP32 来实现一个简单的天气站。该天气站能够获取当前的温度和湿度，并且通过 OLED 屏幕显示出来。
 ### 先叠点护甲
-本人小白，基本啥也不会，代码也是GTP写的，但是从购买板子到功能实现的过程中有很多坑，希望新小白可以直接照着复现。
+本人小白，基本啥也不会，代码也是GTP写的，但是从购买板子到功能实现的过程中有很多坑，然后到处找资料拼，希望新小白可以直接照着复现少踩坑。
 高手看个乐子就好，毕竟效果挺差的。
 
 ### 软件需求
@@ -23,9 +23,7 @@
 - 在VScode的PlatformIO插件创好项目（网上有好多教程，这里就不多说了）关于板子型号的选择如下图，初次安装可能很慢，睡一觉就好了
 - ![image](https://github.com/3081241653/Weather_clocks/assets/151439821/671498fb-96e7-4188-a55e-dfc4c47b3a35)
 
-
-
-### 代码
+### 代码（代码可以沾到GTP里学习一下）
 - 打开项目后粘代码
 - 在platformio.ini文件中改成下面的代码
 ```cpp
@@ -166,8 +164,15 @@ void loop() {
 }
 ```
 - 改API，这里用的是知心天气的,就下图的这个链接改成你自己的
-- 链接获取
+- 链接获取看这个视频
+```bash
+https://www.bilibili.com/video/BV15F411C7FC/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=882b605c11c8488ef603578d67a454ce
+```
 - ![image](https://github.com/3081241653/Weather_clocks/assets/151439821/864639a8-525e-4459-bc40-2765e6d92f93)
+### 接下来直接烧录即可就不多说了
+- 就这样子了，然后你可以自己发挥了，我只能到这里了。
+- ![5e52d49dfcbe5f0ab5dcb2d75c701c8](https://github.com/3081241653/Weather_clocks/assets/151439821/b6d69559-cd8a-41e9-b27f-9a69bb1e998e)
+
 
 
 
